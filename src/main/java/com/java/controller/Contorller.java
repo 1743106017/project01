@@ -30,6 +30,7 @@ public class Contorller {
 		System.out.println(question);
 		
 		System.out.println("project01");
+		System.out.println("hot_fix");
 		
 		return "index";
 	}
