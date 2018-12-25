@@ -28,6 +28,9 @@ public class Contorller {
 		question.setOnLine(3);
 		se.insertType(question);
 		System.out.println(question);
+		
+		System.out.println("project01-clone");
+		
 		return "index";
 	}
 }
