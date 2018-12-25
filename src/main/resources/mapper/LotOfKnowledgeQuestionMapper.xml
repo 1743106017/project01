@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.java.mapper.LotOfKnowledgeQuestionMapper">
+	<!-- <insert id="insertType" parameterType="com.java.pojo.LotOfKnowledgeQuestion">
+		insert into LotOfKnowledgeQuestion (AppId,LotName,OnLine,CreatedAt) values (#{AppId,jdbcType=INTEGER},#{LotName,jdbcType=nvarchar},#{OnLine,jdbcType=INTEGER},#{CreatedAt,jdbcType=DATETIME})
+	</insert> -->
+</mapper>

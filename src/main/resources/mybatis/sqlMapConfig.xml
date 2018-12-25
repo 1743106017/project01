@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+ "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	
+	<!-- 配置分页插件pagehelper，支持多种数据库，需要配置方言 -->
+	<!-- <plugins>
+		<plugin interceptor="com.github.pagehelper.PageHelper">
+			配置方言，设置数据库类型
+			<property name="dialect" value="mysql"/>
+		</plugin>
+	</plugins> -->
+	<!-- 分页插件的使用： -->
+	<!-- PageHelper.startPage(1,10) -->
+	<!-- 参数1：page,第几页 -->
+	<!-- 参数2：rows,每页显示的数量 -->
+	<!-- 注意：老版本分页插件对逆向生成的代码支持不好，不能对有查询条件的查询进行分页。会抛异常。 -->
+	
+</configuration>
