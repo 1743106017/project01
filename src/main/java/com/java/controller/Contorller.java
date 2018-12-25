@@ -31,6 +31,7 @@ public class Contorller {
 		
 		System.out.println("project01-clone");
 		System.out.println("project01");
+		System.out.println("hot_fix");
 		
 		return "index";
 	}
