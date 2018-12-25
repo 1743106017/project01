@@ -30,6 +30,7 @@ public class Contorller {
 		System.out.println(question);
 		
 		System.out.println("project01-clone");
+		System.out.println("project01");
 		
 		return "index";
 	}
